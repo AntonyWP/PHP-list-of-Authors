@@ -27,8 +27,8 @@ class TableRows extends RecursiveIteratorIterator
 }
 
 $host = "courses";
-$user = "z1624182";
-$password = "1992Jul15";
+$user = "";
+$password = "";
 $db = "henrybooks";
 
 try
